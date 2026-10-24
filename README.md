@@ -282,3 +282,5 @@ git switch main && git pull --ff-only && git branch -d feature/<nom>
     ├── api-version.png
     └── preview-vs-production.png
 ```
+
+Test preview deployment.
